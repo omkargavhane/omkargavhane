@@ -1,9 +1,9 @@
 ### 👋 Hi there , I’m Omkar Gavhane
 - 👀 I’m interested in Software Development and Computer Security
 - 🌱 I’m currently learning System Dsign,Secure MPC
-- :handshake:	 I’m looking to collaborate on Project Related to Security and Cryptography
+- :handshake: I’m looking to collaborate on Project Related to Security and Cryptography
 - 📫 How to reach me omkar.g.1998@gmail.com/omkar_2111mc08@iitp.ac.in
-- :pray:Thanks for Visiting
+- :pray: Thanks for Visiting
 
 
 <!---
