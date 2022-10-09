@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning System Dsign,Secure MPC
 - 💞️ I’m looking to collaborate on Project Related to Security and Cryptography
 - 📫 How to reach me omkar.g.1998@gmail.com/omkar_2111mc08@iitp.ac.in
-- Thanks for Visiting
+-  Thanks for Visiting
 
 
 <!---
