@@ -1,6 +1,6 @@
 ### 👋 Hi there , I’m Omkar Gavhane
-- 👀 I’m interested in Software Development and Computer Security
-- 🌱 I’m currently learning ML, System Design, and Secure MPC
+- 👀 I’m interested in Software Development, Machine Learning, and Information Security
+- 🌱 I’m currently learning Machine Learning, System Design.
 - :handshake: I’m looking to collaborate on a Project Related to ML Security and Applied Cryptography
 - 📫 How to reach me omkar.g.1998@gmail.com / omkar_2111mc08@iitp.ac.in
 - :pray: Thanks for Visiting
